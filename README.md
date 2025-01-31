@@ -3,3 +3,4 @@
 
 1. Purpose of "**Vector_Embedding/text_embedding_analysis.ipynb**" notebook is to analyze output from Open AI Text Embedding model and compare outputs for different word / sentence instances. Open AI Text Embedding models output vectors of size 1536 representing word / sentence context.![
 ](vector_embedding_distributions.bmp)
+2. Examples of how to use [Gemsim Word2Vec library](https://radimrehurek.com/gensim/index.html) "**Vector_Embedding/gemsim_word2vec_pretrained.ipynb**"
